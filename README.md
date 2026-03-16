@@ -28,7 +28,12 @@ Some older files use lowercase names without a suffix — these are named after 
 
 | Folder | Contents |
 |--------|---------|
-| `usaco/` | USACO Bronze, Silver, and Gold division problems |
+| `usaco/bronze/` | USACO Bronze division |
+| `usaco/silver/` | USACO Silver division |
+| `usaco/gold/` | USACO Gold division |
+| `usaco/plat/` | USACO Platinum division (coming soon) |
+| `usaco/old_silver/` | Pre-2016 USACO Silver problems |
+| `usaco/old_gold/` | Pre-2016 USACO Gold problems |
 | `cses/` | CSES Problem Set solutions |
 | `codeforces/` | Codeforces solutions |
 | `local_coding_contests/` | LIT, BAPC, Calico, and other local contest solutions |
