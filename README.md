@@ -33,3 +33,4 @@ Some older files use lowercase names without a suffix — these are named after 
 | `codeforces/` | Codeforces solutions |
 | `local_coding_contests/` | LIT, BAPC, Calico, and other local contest solutions |
 | `templates/` | Reusable code templates |
+| `misc/` | Uncategorized or scratch files |
