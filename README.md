@@ -4,6 +4,9 @@ These are my solutions to competitive coding problems from various contests. I h
 ## Disclaimer
 All solutions in this repository are my own original work, written without AI assistance. The folder structure, README, and repository organization were done with the help of [Claude](https://claude.ai).
 
+## Acknowledgements
+Some solutions were developed with the help of ideas or pseudocode shared by my instructors and coaches. I'm grateful for their guidance throughout my competitive programming journey.
+
 ## File Naming Convention
 
 Files follow the format: `ProblemName_Source.cpp`
